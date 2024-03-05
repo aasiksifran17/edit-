@@ -1,5 +1,6 @@
 
-# Hello, Folks! <img src="hero-bg.jpg" height="30px">
+# Hello, Folks! 👋 <br>
+<center><img src="hero-bg.jpg.png"></center>
 <h1 align="center">Hi 👋, I'm Kaleem Mohamed Aasik</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
